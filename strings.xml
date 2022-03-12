@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">User Registration</string>
+    <string name="bg">BG</string>
+    <string name="button">Sign Up</string>
+    <string name="button2">Cancel</string>
+    <string name="layout">a</string>
+    <string name="Enter_full_name">Name</string>
+    <string name="Register">Register</string>
+    <string name="NS">Please enter your personal info</string>
+    <string name="gmail">Email</string>
+    <string name="user_call">What should we call you?</string>
+    <string name="user_call_name">Username</string>
+    <string name="user_pass">Password</string>
+    <string name="user_rppass">Repeat Password</string>
+    <string name="anti_dumb_userverif">User verification: Please enter password again</string>
+
+</resources>
